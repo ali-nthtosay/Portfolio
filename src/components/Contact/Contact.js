@@ -60,7 +60,7 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Github} alt="" />
-              <a href="https://github.com/ali-nthtosay" style={{}} > https://github.com/ali-nthtosay</a> 
+              <a href="https://github.com/ali-nthtosay" > https://github.com/ali-nthtosay</a> 
             </div>
           </div>
         </div>
