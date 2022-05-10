@@ -56,11 +56,11 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Linkedin} alt="" />
-              <a href="https://www.linkedin.com/in/ali-amidpour/" >https://www.linkedin.com/in/ali-amidpour/</a>
+              <a href="https://www.linkedin.com/in/ali-amidpour/" target="_blank" >https://www.linkedin.com/in/ali-amidpour/</a>
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Github} alt="" />
-              <a href="https://github.com/ali-nthtosay" > https://github.com/ali-nthtosay</a> 
+              <a href="https://github.com/ali-nthtosay" target="_blank" > https://github.com/ali-nthtosay</a> 
             </div>
           </div>
         </div>
